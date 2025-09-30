@@ -2,7 +2,7 @@
 
 The circuit is a two-stage NPN transistor amplifier designed to amplify a small AC input signal. It uses resistive biasing networks and capacitive coupling to provide proper transistor operation and signal transfer between stages.
 
-- Basic Characteristics
+Basic Characteristics
 - Parameter	Value / Description
 - Input signal	100 mV, 1 kHz sine wave
 - Number of stages	2 (Q1 → Q2)
