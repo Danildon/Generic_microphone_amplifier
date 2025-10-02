@@ -13,4 +13,4 @@ Basic Characteristics
 - Key resistors	Biasing: 220 kΩ – 1 MΩ; Load: 3.3 kΩ – 15 kΩ
 - Analysis	Transient and Fourier for frequency response
 
-This circuit is a small-signal two-stage transistor amplifier with proper biasing and AC coupling, capable of amplifying a low-amplitude sine wave input. The design is suitable for signal amplification and frequency-domain analysis, such as checking gain and harmonic distortion at the output.
+This circuit is a small-signal two-stage transistor amplifier with proper biasing and AC coupling, capable of amplifying a low-amplitude input. The design is suitable for signal amplification and frequency-domain analysis, such as checking gain and harmonic distortion at the output.
